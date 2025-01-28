@@ -1,4 +1,4 @@
-Here’s a sample `README.md` file tailored for your `Airport Self Check-In Machine` project to post on GitHub:
+`Airport Self Check-In Machine` 
 
 ```markdown
 # Airport Self Check-In Machine
